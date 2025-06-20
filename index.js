@@ -16,7 +16,7 @@ const CONFIG_PATH = path.join(__dirname, 'config.json');
 
 // --- Banner Function ---
 function printBanner() {
-    const bannerText = "HYPERBOLIC CHATBOT - EARN WITH SINBAND";
+    const bannerText = "HYPERBOLIC CHATBOT - EARNINGDROP";
     const terminalWidth = 80;
     const paddingSize = Math.floor((terminalWidth - bannerText.length - 2) / 2);
     const padding = ' '.repeat(paddingSize);
