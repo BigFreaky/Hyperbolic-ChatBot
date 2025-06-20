@@ -27,7 +27,7 @@ Follow these steps to get the chatbot up and running on your local machine.
 
 * [Node.js](https://nodejs.org/en/) (which includes npm) installed on your system.
 
-* A valid API Key from [Hyperbolic.xyz](https://hyperbolic.xyz/).
+* A valid API Key from [Hyperbolic.xyz](https://app.hyperbolic.xyz/settings).
 
 ### Step 1: Clone the Repository
 
