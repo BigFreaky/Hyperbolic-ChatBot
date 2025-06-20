@@ -34,7 +34,7 @@ Follow these steps to get the chatbot up and running on your local machine.
 Clone this repository to your local machine using your preferred method (HTTPS or SSH).
 
 ```bash
-git clone [https://github.com/BigFreaky/Hyperbolic-ChatBot.git](https://github.com/BigFreaky/Hyperbolic-ChatBot.git)
+git clone https://github.com/BigFreaky/Hyperbolic-ChatBot.git
 ```
 
 ### Step 2: Navigate to the Project Directory
