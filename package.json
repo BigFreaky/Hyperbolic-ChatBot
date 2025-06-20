@@ -1,0 +1,21 @@
+{
+  "name": "Hyperbolic-Chatbot",
+  "version": "1.0.0",
+  "description": "An automated chatbot to interact with the Hyperbolic API, created with help from Sinband.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Makera1n",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2"
+  },
+  "keywords": [
+    "chatbot",
+    "hyperbolic",
+    "api",
+    "automation"
+  ]
+}
